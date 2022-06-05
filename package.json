@@ -1,0 +1,14 @@
+{
+  "name": "jscript_confuser",
+  "version": "1.0.0",
+  "description": "a package that performs basic obfuscation of JavaScript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Crampton <cramppet@protomail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "^4.0.1"
+  }
+}
